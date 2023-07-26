@@ -11,6 +11,6 @@ The project includes a single file, `hello_world.txt`, that contains a simple "H
 To use this project, you can clone it to your local machine and open `hello_world.txt`.
 
 ```shell
-git clone https://github.com/username/repo.git
+git clone https://github.com/Deepanshu-Kher/MyDemoRepoGit
 cd repo
 cat hello_world.txt
